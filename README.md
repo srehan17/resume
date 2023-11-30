@@ -1,2 +1,1 @@
-# Resume deployed on: 
-[srehan17.github.io]https://srehan17.github.io/
+## Resume deployed on: https://srehan17.github.io/
