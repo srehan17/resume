@@ -97,7 +97,7 @@ section {
         margin-top: 1.2rem;
         margin-bottom: 0.1rem;
     }
-    h2, h3, .contact-details {
+    h2, h3, .contact-details, .heading, .project-heading {
         font-size: 1rem;
     }
     .group {
