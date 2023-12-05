@@ -101,6 +101,7 @@ section {
         font-size: 1rem;
     }
     .group {
-        margin-bottom: 0.3rem
+        margin-bottom: 0.4rem;
+        margin-top: 0
     }
 }
