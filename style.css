@@ -2,7 +2,7 @@ body {
     box-sizing: border-box;
     margin: 20px 100px;
     padding: 0;
-    font-size: 2vw;
+    font-size: 16px;
 }
 
 #header {
@@ -14,20 +14,20 @@ body {
 .contact-details {
     display: flex;
     flex-direction: horizontal;
-    font-size: 3vw;
+    font-size: 1.2rem;
 }
 
 h1 {
-    font-size: 4vw;
+    font-size: 1.4rem;
 }
 
 h2 {
-    font-size: 3vw;
+    font-size: 1.3rem;
     text-transform: uppercase;
 }
 
 h3 {
-    font-size: 3vw;
+    font-size: 1.2rem;
     padding: 0;
     margin: 0;
 }
@@ -87,5 +87,8 @@ section {
 @media only screen and (max-width: 450px) {
     body {
         margin: 0;
+        font-size: 0.8rem;
     }
+    h1, h2, h3 {
+        font-size: 1rem;
 }
