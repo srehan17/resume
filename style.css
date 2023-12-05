@@ -85,7 +85,8 @@ section {
 }
 
 @media only screen and (max-width: 450px) {
-    html {
-        font-size: 80%;
+    body {
+        font-size: 12px;
+        margin: 0;
     }
 }
